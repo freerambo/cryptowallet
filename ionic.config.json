@@ -1,0 +1,7 @@
+{
+  "name": "BitCoinDemo",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
